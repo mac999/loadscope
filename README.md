@@ -132,3 +132,7 @@ The documents under `docs/` are written in Korean.
   the reconstructed facts, separating observation from inference
 - [docs/dashboard-rationale.md](docs/dashboard-rationale.md) — why these metrics
 - [docs/verification.md](docs/verification.md) — comparison results and limits
+
+## License
+
+MIT. See [LICENSE](LICENSE).

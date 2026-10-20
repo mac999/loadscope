@@ -2,6 +2,9 @@
 name = "loadscope"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Windows PE dependency viewer served as a local web app"
+repository = "https://github.com/mac999/loadscope"
 
 [dependencies]
 serde = { version = "1.0.216", features = ["derive"] }

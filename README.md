@@ -11,6 +11,8 @@ The dependency resolution policy was reconstructed from the shipped binaries of
 The PE parser, the ApiSet schema reader and the CLI metadata reader are new
 implementations written against the published formats.
 
+![Explorer view](docs/images/explorer.webp)
+
 ## Features
 
 ### Explorer
@@ -25,6 +27,13 @@ implementations written against the published formats.
 - Native file picker, resizable panels, dark theme, English and Korean
 
 ### Dashboard
+
+The dashboard answers what the graph says about the binary, rather than
+repeating the tree. Every card carries a one-line explanation of how to read it.
+
+![Dashboard overview](docs/images/dashboard-overview.png)
+
+![Dashboard graph metrics](docs/images/dashboard-graph.png)
 
 | Card | What it answers |
 | --- | --- |
